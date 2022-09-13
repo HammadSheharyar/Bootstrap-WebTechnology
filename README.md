@@ -6,5 +6,5 @@ Contact Page
 Dropdown section
 About Page
 Prices Page
-Oher than that it has a footer, a naigation bar and it is fully responsive.
+Oher than that it has a footer, a navigation bar and it is fully responsive.
 its main purpose is learning.
